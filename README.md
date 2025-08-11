@@ -1,4 +1,4 @@
-# 🚀 15 Python Data Analytics Projects  
+# 🚀 15+ Python Data Analytics Projects  
 *Turning raw data into decisions — one project at a time.*  
 
 Welcome to my curated collection of **15+ Python-powered data analytics projects**.  
