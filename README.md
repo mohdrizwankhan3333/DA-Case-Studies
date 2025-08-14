@@ -1,5 +1,4 @@
-# 🚀 Python Data Analytics Portfolio
-# 20+ Projects
+# 🚀 Python Data Analytics Portfolio --- 20+ Projects
 
 **Decoding data. Delivering insights. Driving impact. — one project at a time.**
 
