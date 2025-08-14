@@ -1,6 +1,6 @@
 # 🚀 Python Data Analytics Portfolio
 
-“Decoding data. Delivering insights. Driving impact. — one project at a time.*
+Decoding data. Delivering insights. Driving impact. — one project at a time.
 
 Welcome to my curated collection of **Python-powered data analytics 20+ projects**.
 Each project is a full journey — from messy datasets to meaningful insights — showcasing **data cleaning, exploration, visualization, and interpretation**.
@@ -51,7 +51,7 @@ These projects showcase my **ability to handle real-world data challenges**, fro
 
 **Mohd Rizwan Khan** – An Expert Data Analyst
 
-* Completed Diploma in Computer Engineering, currently in 2nd year B.Tech Computer Engineering 
+* Completed Diploma in Computer Engineering (3 Years), currently in 2nd year B.Tech Computer Engineering 
 * Passionate about **data analytics**, visualization, and insights-driven decision making
 * Actively building skills in Python, SQL, Power BI, and machine learning
 
