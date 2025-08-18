@@ -1,58 +1,68 @@
-# 🚀 Python Data Analytics Portfolio --- 20+ Projects
+# 🚀🐍 Python Data Analytics Portfolio — 20+ Projects  
 
-**Decoding data. Delivering insights. Driving impact. — one project at a time.**
+**Decoding data. Delivering insights. Driving impact. — one project at a time.**  
 
-Welcome to my curated collection of **Python-powered data analytics 20+ projects**.
-Each project is a full journey — from messy datasets to meaningful insights — showcasing **data cleaning, exploration, visualization, and interpretation**.
-
----
-
-## 🌟 Highlights
-
-* 🔍 **End-to-end workflows** — Every project moves from raw data → analysis → insight.
-* 📊 **Rich visualizations** — Heatmaps, dashboards, time series plots, and interactive charts.
-* 🌍 **Diverse datasets** — Finance, healthcare, e-commerce, and public datasets.
-* 🧩 **Reusable code patterns** — Functions and scripts ready to adapt to your own projects.
-* 💼 **Interview-ready** — Focused on skills recruiters want: EDA, predictive modeling, dashboards, and business insights.
+Welcome to my curated collection of **20+ Python-powered data analytics projects**.  
+Each project is a full journey — from messy datasets 🧹 → analysis 🔍 → visualization 📊 → insight 💡.  
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Highlights  
 
-| Stage              | Tools & Libraries           |
-| ------------------ | --------------------------- |
-| **Data Wrangling** | Pandas, NumPy               |
-| **Visualization**  | Matplotlib, Seaborn, Plotly |
-| **Modeling**       | Scikit-learn, Statsmodels   |
-| **Environment**    | Jupyter Notebook            |
-
----
-
-## 📂 Top 6 High-Impact Projects
-
-| # | Project Title                  | Key Focus & Conclusion                                                                                                                                                                         |
-| - | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | ❤️ Heart Disease EDA           | Correlation heatmaps, feature analysis, statistical insights. **Conclusion:** Key risk factors identified and visualized, demonstrating strong EDA and healthcare analytics skills.            |
-| 2 | 📊 Sales Performance Dashboard | KPI tracking, monthly & regional trends, interactive dashboards. **Conclusion:** Insights on top products and sales patterns for actionable business decisions.                                |
-| 3 | 🔮 Customer Churn Prediction   | Logistic regression, feature engineering, classification metrics. **Conclusion:** Predicted churn likelihood and suggested retention strategies, showing predictive analytics expertise.       |
-| 4 | 📈 Stock Price Trend Analysis  | Time series analysis, moving averages, trend visualization. **Conclusion:** Highlighted market trends and potential investment signals, demonstrating time series analytics skills.            |
-| 5 | 🦠 COVID-19 Data Tracker       | ETL pipelines, interactive dashboards, visual storytelling. **Conclusion:** Visualized global case trends, showing proficiency in data pipelines and dashboard creation.                       |
-| 6 | 🛒 E-commerce Product Analysis | Customer segmentation, basket analysis, data visualization. **Conclusion:** Revealed purchasing patterns and product affinities, demonstrating business analytics and customer insight skills. |
+✨ **End-to-end workflows** — Every project moves from raw data → analysis → insight  
+✨ **Rich visualizations** — Heatmaps, dashboards, time series plots, interactive charts  
+✨ **Diverse datasets** — Finance, healthcare, e-commerce, and public datasets  
+✨ **Reusable code patterns** — Functions & scripts ready to adapt for new problems  
+✨ **Interview-ready** — Focus on EDA, predictive modeling, dashboards, and business insights  
 
 ---
 
-## 🔍 Conclusion
+## 🛠 Tech Stack  
 
-These projects showcase my **ability to handle real-world data challenges**, from cleaning messy datasets to building predictive models and delivering actionable insights. Each project demonstrates skills relevant to **data analytics roles**, including **ETL, visualization, statistical analysis, and predictive modeling**.
+| 🔗 Stage            | ⚡ Tools & Libraries            |
+| ------------------- | ------------------------------- |
+| **Data Wrangling**  | 🐼 Pandas, 🔢 NumPy              |
+| **Visualization**   | 📊 Matplotlib, 🌈 Seaborn, 📈 Plotly |
+| **Modeling**        | 🤖 Scikit-learn, 📐 Statsmodels  |
+| **Environment**     | 📓 Jupyter Notebook             |
 
 ---
 
-## 👨‍💻 About Me
+## 📂 Top 6 High-Impact Projects  
 
-**Mohd Rizwan Khan** – An Expert Data Analyst
+| #️⃣ | 🚩 Project Title                 | 🔍 Key Focus & 📝 Conclusion                                                                                                                                                                 |
+| --- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1️⃣ | ❤️ Heart Disease EDA             | Correlation heatmaps, feature analysis, statistical insights. **Conclusion:** Identified key risk factors — strong EDA + healthcare analytics skills.                                          |
+| 2️⃣ | 📊 Sales Performance Dashboard   | KPI tracking, monthly & regional trends, interactive dashboards. **Conclusion:** Delivered insights on top products and sales patterns for business impact.                                    |
+| 3️⃣ | 🔮 Customer Churn Prediction     | Logistic regression, feature engineering, classification metrics. **Conclusion:** Predicted churn likelihood + suggested retention strategies = predictive analytics expertise.                 |
+| 4️⃣ | 📈 Stock Price Trend Analysis    | Time series, moving averages, trend visualization. **Conclusion:** Highlighted market patterns + potential signals — strong time series skills.                                                |
+| 5️⃣ | 🦠 COVID-19 Data Tracker         | ETL pipelines, interactive dashboards, visual storytelling. **Conclusion:** Visualized global case trends = proficiency in pipelines + dashboards.                                             |
+| 6️⃣ | 🛒 E-commerce Product Analysis   | Customer segmentation, basket analysis, data visualization. **Conclusion:** Revealed product affinities & purchasing patterns — clear business analytics + customer insight strengths.         |
 
-* Completed Diploma in Computer Engineering (3 Years) From JMI, currently in 2nd year of B.Tech in Computer Engineering at AKTU
-* Passionate about **data analytics**, visualization, and insights-driven decision making
-* Actively building skills in Python, SQL, Power BI, and machine learning
+---
 
-**Let’s turn data into decisions! 🚀**
+## 🔍 Conclusion  
+
+These projects highlight my ability to tackle **real-world data challenges**:  
+🧹 Cleaning messy datasets  
+📊 Building dashboards & visualizations  
+📈 Creating predictive models  
+💡 Delivering actionable insights  
+
+Every project reflects skills needed for **data analyst roles**: ETL, visualization, statistical analysis, and predictive modeling.  
+
+---
+
+## 👨‍💻 About Me  
+
+I’m **Mohd Rizwan Khan** — an aspiring **Expert Data Analyst**.  
+
+🎓 Diploma in Computer Engineering (JMI, 3 Years) → currently 2nd year B.Tech Computer Engineering (AKTU)  
+🔥 Passionate about **Python, SQL, Power BI, Machine Learning, and Data Analytics**  
+📈 Focused on turning raw data into clear, impactful decisions  
+
+💼 Let’s connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdrizwankhan01/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mohdrizwankhan3333)  
+
+**Let’s turn data into decisions! 🚀**  
